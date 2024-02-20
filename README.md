@@ -5,7 +5,7 @@
 <div align="center">
   <h2>About</h2>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?size=20&font=DM+Sans&pause=1000&color=000000&center=true&repeat=false&random=true&width=961&height=45&lines=Freshmen+in+university+(21-year-old+in+Korean+age))](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?size=20&font=DM+Sans&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=961&height=20&lines=Freshmen+in+university+(21-year-old+in+Korean+age))](https://git.io/typing-svg)
 </div>
 
 <div align="center">
@@ -20,8 +20,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=25&font=DM+Sans&repeat=false&color=000000&vCenter=true&random=false&width=435&height=25&lines=PS)](https://git.io/typing-svg)
 <br/>
-<img src="https://github.com/alkalitop/alkalitop/assets/47966951/c81d9a71-bdef-406d-8b6b-250c013ac651" width="15">
-<img src="https://readme-typing-svg.demolab.com?size=15&font=DM+Sans&repeat=false&color=000000&vCenter=true&random=false&width=435&height=20&lines=solved.ac%20Platinum%20III">
+<img src="https://github.com/alkalitop/alkalitop/assets/47966951/c81d9a71-bdef-406d-8b6b-250c013ac651" width="15"> <img src="https://readme-typing-svg.demolab.com?size=15&font=DM+Sans&repeat=false&color=000000&vCenter=true&random=false&width=435&height=20&lines=solved.ac%20Platinum%20III">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:3b8d99,50:6b6b83,100:aa4b6b&section=footer">
