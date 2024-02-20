@@ -4,8 +4,7 @@
 
 <div align="center">
   <h2>About</h2>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?size=20&font=DM+Sans&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=961&height=20&lines=Freshmen+in+university+(21-year-old+in+Korean+age))](https://git.io/typing-svg)
+  Freshmen in university (21-year-old in Korean age)
 </div>
 
 <div align="center">
