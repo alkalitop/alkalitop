@@ -3,5 +3,5 @@
   <p>Currently there is no project in public.</p>
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=aflat)](https://solved.ac/aflat)
+[![solved.ac
+prof](http://mazassumnida.wtf/api/v2/generate_badge?boj=aflat)](https://solved.ac/aflat)
