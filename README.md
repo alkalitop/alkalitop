@@ -1,5 +1,2 @@
-## About Me
-learning about data science 
-
-## SOLVED.AC (Baekjoon Online Judge)
+### SOLVED.AC (Baekjoon Online Judge)
 [![SOLVED.AC](http://mazassumnida.wtf/api/v2/generate_badge?boj=aflat)](https://solved.ac/profile/aflat)
