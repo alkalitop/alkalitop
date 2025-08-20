@@ -1,4 +1,4 @@
-## MAIN
+## Hi there
 🫠
 
 ## SOLVED.AC (Baekjoon Online Judge)
